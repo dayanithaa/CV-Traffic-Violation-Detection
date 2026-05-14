@@ -1,0 +1,16 @@
+torch
+torchvision
+torchaudio
+ultralytics
+opencv-python
+paddlepaddle
+paddleocr
+transformers
+scikit-learn
+albumentations
+matplotlib
+seaborn
+pandas
+numpy
+pyyaml
+psutil
