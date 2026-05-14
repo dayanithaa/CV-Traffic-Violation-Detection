@@ -1,8 +1,10 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+
 torch
 torchvision
 torchaudio
 ultralytics
-opencv-python
+opencv-python-headless
 paddlepaddle
 paddleocr
 transformers
@@ -12,5 +14,10 @@ matplotlib
 seaborn
 pandas
 numpy
-pyyaml
 psutil
+scipy
+Pillow
+pyyaml
+tqdm
+
+
